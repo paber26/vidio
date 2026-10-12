@@ -1,0 +1,634 @@
+{
+ "duration": 63.49750566893423,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.145,
+   "text": " Halo semuanya, selamat datang kembali di podcast kita hari ini.",
+   "words": [
+    {
+     "word": " Halo",
+     "start": 0.08,
+     "end": 0.464
+    },
+    {
+     "word": " semuanya,",
+     "start": 0.464,
+     "end": 1.232
+    },
+    {
+     "word": " selamat",
+     "start": 1.232,
+     "end": 1.846
+    },
+    {
+     "word": " datang",
+     "start": 1.846,
+     "end": 2.384
+    },
+    {
+     "word": " kembali",
+     "start": 2.384,
+     "end": 2.998
+    },
+    {
+     "word": " di",
+     "start": 2.998,
+     "end": 3.229
+    },
+    {
+     "word": " podcast",
+     "start": 3.229,
+     "end": 3.843
+    },
+    {
+     "word": " kita",
+     "start": 3.843,
+     "end": 4.227
+    },
+    {
+     "word": " hari",
+     "start": 4.227,
+     "end": 4.611
+    },
+    {
+     "word": " ini.",
+     "start": 4.611,
+     "end": 4.995
+    }
+   ]
+  },
+  {
+   "start": 5.495,
+   "end": 10.579,
+   "text": " Kali ini kita akan membahas cara menghasilkan uang sebagai clipper.",
+   "words": [
+    {
+     "word": " Kali",
+     "start": 5.575,
+     "end": 5.932
+    },
+    {
+     "word": " ini",
+     "start": 5.932,
+     "end": 6.218
+    },
+    {
+     "word": " kita",
+     "start": 6.218,
+     "end": 6.575
+    },
+    {
+     "word": " akan",
+     "start": 6.575,
+     "end": 6.931
+    },
+    {
+     "word": " membahas",
+     "start": 6.931,
+     "end": 7.574
+    },
+    {
+     "word": " cara",
+     "start": 7.574,
+     "end": 7.931
+    },
+    {
+     "word": " menghasilkan",
+     "start": 7.931,
+     "end": 8.858
+    },
+    {
+     "word": " uang",
+     "start": 8.858,
+     "end": 9.215
+    },
+    {
+     "word": " sebagai",
+     "start": 9.215,
+     "end": 9.786
+    },
+    {
+     "word": " clipper.",
+     "start": 9.786,
+     "end": 10.429
+    }
+   ]
+  },
+  {
+   "start": 10.929,
+   "end": 16.44,
+   "text": " Banyak orang mengira clipper cukup memotong video orang lain lalu mengunggahnya.",
+   "words": [
+    {
+     "word": " Banyak",
+     "start": 11.009,
+     "end": 11.465
+    },
+    {
+     "word": " orang",
+     "start": 11.465,
+     "end": 11.856
+    },
+    {
+     "word": " mengira",
+     "start": 11.856,
+     "end": 12.378
+    },
+    {
+     "word": " clipper",
+     "start": 12.378,
+     "end": 12.9
+    },
+    {
+     "word": " cukup",
+     "start": 12.9,
+     "end": 13.291
+    },
+    {
+     "word": " memotong",
+     "start": 13.291,
+     "end": 13.878
+    },
+    {
+     "word": " video",
+     "start": 13.878,
+     "end": 14.269
+    },
+    {
+     "word": " orang",
+     "start": 14.269,
+     "end": 14.66
+    },
+    {
+     "word": " lain",
+     "start": 14.66,
+     "end": 14.986
+    },
+    {
+     "word": " lalu",
+     "start": 14.986,
+     "end": 15.312
+    },
+    {
+     "word": " mengunggahnya.",
+     "start": 15.312,
+     "end": 16.29
+    }
+   ]
+  },
+  {
+   "start": 16.79,
+   "end": 21.727,
+   "text": " Padahal itu justru cara tercepat untuk kena copyright strike.",
+   "words": [
+    {
+     "word": " Padahal",
+     "start": 16.87,
+     "end": 17.478
+    },
+    {
+     "word": " itu",
+     "start": 17.478,
+     "end": 17.781
+    },
+    {
+     "word": " justru",
+     "start": 17.781,
+     "end": 18.313
+    },
+    {
+     "word": " cara",
+     "start": 18.313,
+     "end": 18.692
+    },
+    {
+     "word": " tercepat",
+     "start": 18.692,
+     "end": 19.375
+    },
+    {
+     "word": " untuk",
+     "start": 19.375,
+     "end": 19.831
+    },
+    {
+     "word": " kena",
+     "start": 19.831,
+     "end": 20.21
+    },
+    {
+     "word": " copyright",
+     "start": 20.21,
+     "end": 20.97
+    },
+    {
+     "word": " strike.",
+     "start": 20.97,
+     "end": 21.577
+    }
+   ]
+  },
+  {
+   "start": 22.077,
+   "end": 26.729,
+   "text": " Rahasia pertama adalah meminta izin kepada kreator aslinya.",
+   "words": [
+    {
+     "word": " Rahasia",
+     "start": 22.157,
+     "end": 22.747
+    },
+    {
+     "word": " pertama",
+     "start": 22.747,
+     "end": 23.336
+    },
+    {
+     "word": " adalah",
+     "start": 23.336,
+     "end": 23.852
+    },
+    {
+     "word": " meminta",
+     "start": 23.852,
+     "end": 24.442
+    },
+    {
+     "word": " izin",
+     "start": 24.442,
+     "end": 24.81
+    },
+    {
+     "word": " kepada",
+     "start": 24.81,
+     "end": 25.326
+    },
+    {
+     "word": " kreator",
+     "start": 25.326,
+     "end": 25.916
+    },
+    {
+     "word": " aslinya.",
+     "start": 25.916,
+     "end": 26.579
+    }
+   ]
+  },
+  {
+   "start": 27.079,
+   "end": 32.477,
+   "text": " Banyak podcaster justru senang kalau kontennya dipotong dan disebarkan.",
+   "words": [
+    {
+     "word": " Banyak",
+     "start": 27.159,
+     "end": 27.661
+    },
+    {
+     "word": " podcaster",
+     "start": 27.661,
+     "end": 28.379
+    },
+    {
+     "word": " justru",
+     "start": 28.379,
+     "end": 28.881
+    },
+    {
+     "word": " senang",
+     "start": 28.881,
+     "end": 29.384
+    },
+    {
+     "word": " kalau",
+     "start": 29.384,
+     "end": 29.815
+    },
+    {
+     "word": " kontennya",
+     "start": 29.815,
+     "end": 30.532
+    },
+    {
+     "word": " dipotong",
+     "start": 30.532,
+     "end": 31.178
+    },
+    {
+     "word": " dan",
+     "start": 31.178,
+     "end": 31.465
+    },
+    {
+     "word": " disebarkan.",
+     "start": 31.465,
+     "end": 32.327
+    }
+   ]
+  },
+  {
+   "start": 32.827,
+   "end": 36.801,
+   "text": " Rahasia kedua adalah hook di tiga detik pertama.",
+   "words": [
+    {
+     "word": " Rahasia",
+     "start": 32.907,
+     "end": 33.518
+    },
+    {
+     "word": " kedua",
+     "start": 33.518,
+     "end": 33.976
+    },
+    {
+     "word": " adalah",
+     "start": 33.976,
+     "end": 34.511
+    },
+    {
+     "word": " hook",
+     "start": 34.511,
+     "end": 34.893
+    },
+    {
+     "word": " di",
+     "start": 34.893,
+     "end": 35.122
+    },
+    {
+     "word": " tiga",
+     "start": 35.122,
+     "end": 35.504
+    },
+    {
+     "word": " detik",
+     "start": 35.504,
+     "end": 35.963
+    },
+    {
+     "word": " pertama.",
+     "start": 35.963,
+     "end": 36.651
+    }
+   ]
+  },
+  {
+   "start": 37.151,
+   "end": 42.628,
+   "text": " Kalau tiga detik pertama membosankan, penonton langsung menggeser layar.",
+   "words": [
+    {
+     "word": " Kalau",
+     "start": 37.231,
+     "end": 37.662
+    },
+    {
+     "word": " tiga",
+     "start": 37.662,
+     "end": 38.021
+    },
+    {
+     "word": " detik",
+     "start": 38.021,
+     "end": 38.452
+    },
+    {
+     "word": " pertama",
+     "start": 38.452,
+     "end": 39.028
+    },
+    {
+     "word": " membosankan,",
+     "start": 39.028,
+     "end": 39.962
+    },
+    {
+     "word": " penonton",
+     "start": 39.962,
+     "end": 40.609
+    },
+    {
+     "word": " langsung",
+     "start": 40.609,
+     "end": 41.256
+    },
+    {
+     "word": " menggeser",
+     "start": 41.256,
+     "end": 41.974
+    },
+    {
+     "word": " layar.",
+     "start": 41.974,
+     "end": 42.478
+    }
+   ]
+  },
+  {
+   "start": 42.978,
+   "end": 47.098,
+   "text": " Rahasia ketiga adalah subtitle yang besar dan jelas.",
+   "words": [
+    {
+     "word": " Rahasia",
+     "start": 43.058,
+     "end": 43.645
+    },
+    {
+     "word": " ketiga",
+     "start": 43.645,
+     "end": 44.159
+    },
+    {
+     "word": " adalah",
+     "start": 44.159,
+     "end": 44.673
+    },
+    {
+     "word": " subtitle",
+     "start": 44.673,
+     "end": 45.333
+    },
+    {
+     "word": " yang",
+     "start": 45.333,
+     "end": 45.7
+    },
+    {
+     "word": " besar",
+     "start": 45.7,
+     "end": 46.141
+    },
+    {
+     "word": " dan",
+     "start": 46.141,
+     "end": 46.434
+    },
+    {
+     "word": " jelas.",
+     "start": 46.434,
+     "end": 46.948
+    }
+   ]
+  },
+  {
+   "start": 47.448,
+   "end": 51.524,
+   "text": " Kebanyakan orang menonton video pendek tanpa suara.",
+   "words": [
+    {
+     "word": " Kebanyakan",
+     "start": 47.528,
+     "end": 48.342
+    },
+    {
+     "word": " orang",
+     "start": 48.342,
+     "end": 48.785
+    },
+    {
+     "word": " menonton",
+     "start": 48.785,
+     "end": 49.451
+    },
+    {
+     "word": " video",
+     "start": 49.451,
+     "end": 49.895
+    },
+    {
+     "word": " pendek",
+     "start": 49.895,
+     "end": 50.412
+    },
+    {
+     "word": " tanpa",
+     "start": 50.412,
+     "end": 50.856
+    },
+    {
+     "word": " suara.",
+     "start": 50.856,
+     "end": 51.374
+    }
+   ]
+  },
+  {
+   "start": 51.874,
+   "end": 57.539,
+   "text": " Terakhir, jangan lupa tambahkan sudut pandang atau komentar kamu sendiri.",
+   "words": [
+    {
+     "word": " Terakhir,",
+     "start": 51.954,
+     "end": 52.688
+    },
+    {
+     "word": " jangan",
+     "start": 52.688,
+     "end": 53.203
+    },
+    {
+     "word": " lupa",
+     "start": 53.203,
+     "end": 53.57
+    },
+    {
+     "word": " tambahkan",
+     "start": 53.57,
+     "end": 54.304
+    },
+    {
+     "word": " sudut",
+     "start": 54.304,
+     "end": 54.745
+    },
+    {
+     "word": " pandang",
+     "start": 54.745,
+     "end": 55.333
+    },
+    {
+     "word": " atau",
+     "start": 55.333,
+     "end": 55.7
+    },
+    {
+     "word": " komentar",
+     "start": 55.7,
+     "end": 56.361
+    },
+    {
+     "word": " kamu",
+     "start": 56.361,
+     "end": 56.728
+    },
+    {
+     "word": " sendiri.",
+     "start": 56.728,
+     "end": 57.389
+    }
+   ]
+  },
+  {
+   "start": 57.889,
+   "end": 63.148,
+   "text": " Itulah yang membuat klip kamu lolos monetisasi YouTube dan Facebook.",
+   "words": [
+    {
+     "word": " Itulah",
+     "start": 57.969,
+     "end": 58.479
+    },
+    {
+     "word": " yang",
+     "start": 58.479,
+     "end": 58.844
+    },
+    {
+     "word": " membuat",
+     "start": 58.844,
+     "end": 59.427
+    },
+    {
+     "word": " klip",
+     "start": 59.427,
+     "end": 59.791
+    },
+    {
+     "word": " kamu",
+     "start": 59.791,
+     "end": 60.155
+    },
+    {
+     "word": " lolos",
+     "start": 60.155,
+     "end": 60.593
+    },
+    {
+     "word": " monetisasi",
+     "start": 60.593,
+     "end": 61.394
+    },
+    {
+     "word": " YouTube",
+     "start": 61.394,
+     "end": 61.977
+    },
+    {
+     "word": " dan",
+     "start": 61.977,
+     "end": 62.269
+    },
+    {
+     "word": " Facebook.",
+     "start": 62.269,
+     "end": 62.998
+    }
+   ]
+  }
+ ]
+}

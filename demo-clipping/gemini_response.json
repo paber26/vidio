@@ -1,0 +1,52 @@
+[
+  {
+    "rank": 1, "viral_score": 88,
+    "start_time": 10.93, "end_time": 26.73,
+    "hook_start_time": 16.79, "hook_end_time": 21.73,
+    "bgm_mood": "tense",
+    "typography_plan": [
+      {"kata_utama": "COPYRIGHT", "scale_level": 3, "style": "utama", "animasi": "bounce_pop"},
+      {"kata_utama": "IZIN", "scale_level": 2, "style": "utama", "animasi": "bounce_pop"}
+    ],
+    "broll_list": [],
+    "recommended_visual_broll_hook": [{"broll_idea": "Peringatan copyright strike", "search_keyword": "copyright warning", "why_it_works": "Visual ancaman langsung"}],
+    "hook_v2": {"enabled": false, "items": [], "transition": {"type": "glitch"}},
+    "keep_segments": [{"start_time": 10.93, "end_time": 26.73}],
+    "title_indonesia": "Kesalahan Fatal Clipper Pemula",
+    "title_inggris": "The Fatal Mistake New Clippers Make",
+    "hastag": "#clipper #youtubeshorts #monetisasi",
+    "description_hook": "Asal potong video orang = copyright strike.",
+    "description_context": "Cara aman jadi clipper: minta izin kreator aslinya dulu.",
+    "keyword_tags": ["clipper", "copyright", "monetisasi"],
+    "tiktok_title_id": "Jangan jadi clipper kayak gini!",
+    "tiktok_caption_id": "Clipper wajib tahu ini sebelum upload #clipper",
+    "tiktok_caption": "Every clipper must know this #clipper",
+    "alasan": "Kontras antara anggapan umum dan risiko nyata membuat penasaran.",
+    "klasifikasi_akun": {"tipe_akun": "Business", "akun_tujuan": "Business.Mereska", "confidence": 70, "angle_utama": "Edukasi clipping", "alasan": "Topik cuan konten", "kata_kunci_pendukung": ["clipper"], "bio_akun": "-", "alternatif_akun": {"tipe_akun": "Business", "akun_tujuan": "Business.Mereska", "alasan": "-"}}
+  },
+  {
+    "rank": 2, "viral_score": 81,
+    "start_time": 32.83, "end_time": 51.52,
+    "hook_start_time": 37.15, "hook_end_time": 42.63,
+    "bgm_mood": "upbeat",
+    "typography_plan": [
+      {"kata_utama": "HOOK", "scale_level": 3, "style": "utama", "animasi": "bounce_pop"},
+      {"kata_utama": "SUBTITLE", "scale_level": 2, "style": "utama", "animasi": "bounce_pop"}
+    ],
+    "broll_list": [],
+    "recommended_visual_broll_hook": [{"broll_idea": "Jempol menggeser layar", "search_keyword": "phone scrolling", "why_it_works": "Relatable"}],
+    "hook_v2": {"enabled": false, "items": [], "transition": {"type": "glitch"}},
+    "keep_segments": [{"start_time": 32.83, "end_time": 51.52}],
+    "title_indonesia": "3 Detik Penentu Video Viral",
+    "title_inggris": "The 3 Seconds That Decide Virality",
+    "hastag": "#tipsyoutube #shorts #clipper",
+    "description_hook": "Penonton menentukan dalam 3 detik.",
+    "description_context": "Hook kuat dan subtitle besar adalah kunci klip pendek.",
+    "keyword_tags": ["hook", "subtitle", "shorts"],
+    "tiktok_title_id": "Rahasia 3 detik pertama",
+    "tiktok_caption_id": "Hook + subtitle = views #tips",
+    "tiktok_caption": "Hook + captions = views #tips",
+    "alasan": "Tips praktis yang langsung bisa dipakai.",
+    "klasifikasi_akun": {"tipe_akun": "Business", "akun_tujuan": "Business.Mereska", "confidence": 65, "angle_utama": "Tips konten", "alasan": "-", "kata_kunci_pendukung": ["hook"], "bio_akun": "-", "alternatif_akun": {"tipe_akun": "Business", "akun_tujuan": "Business.Mereska", "alasan": "-"}}
+  }
+]
