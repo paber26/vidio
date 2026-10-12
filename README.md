@@ -141,6 +141,8 @@ Sumber (VOD/podcast yang Anda punya izin)
 - AI auto-clipper (berbayar, opsional): OpusClip, Vizard, Klap — mempercepat
   pencarian momen, tapi hasilnya tetap perlu diedit agar tidak "template massal".
 
+**Repo open source auto-clipper**: lihat [`REPO-CLIPPER.md`](REPO-CLIPPER.md).
+
 **Skrip bantu**: [`scripts/clip.sh`](scripts/clip.sh) memotong video lokal dan
 mengubahnya ke format vertikal 9:16 (background blur) siap upload, opsional
 dengan subtitle `.srt`.
